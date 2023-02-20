@@ -1,2 +1,2 @@
-# C-and-C-
+# C-and-C++
 Working with C and C++
