@@ -20,7 +20,7 @@ void main(void)
     //car_details(&huyndai10);
     //huyndai10.year = 2023;
     car_details(&huyndai10);
-    change_car_details(&huyndai10, "", "Camry", 231, 2000);
+    change_car_details(&huyndai10, "Kia", "Camry", 231, 2000);
     car_details(&huyndai10);
 
 }
