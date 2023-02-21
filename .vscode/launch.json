@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/haihv/OneDrive/Hai/Performance Focus NZ",
-      "program": "c:/Users/haihv/OneDrive/Hai/Performance Focus NZ/build/Debug/outDebug",
+      "cwd": "c:/Users/haihv/Documents/GitHub/C-and-Cpp",
+      "program": "c:/Users/haihv/Documents/GitHub/C-and-Cpp/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
