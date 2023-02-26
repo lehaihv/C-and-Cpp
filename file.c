@@ -10,4 +10,8 @@ int main(void)
     while (fgets(s, sizeof s, fp) != NULL)
     printf("%d: %s", ++linecount, s);
     fclose(fp);
+
+    char *val = "Hello";
+    printf("%p\n", val);
+
 }
